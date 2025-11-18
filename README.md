@@ -7,7 +7,7 @@ Implementación y análisis comparativo de modelos de ML sobre el dataset Wine Q
 
 En este repositorio comparto un proyecto práctico donde analizo el dataset **"Wine Quality"** para predecir la calidad del vino basándome en sus propiedades fisicoquímicas. El objetivo principal no fue solo obtener métricas, sino entender el comportamiento de diferentes algoritmos frente a datos reales correlacionados.
 
-## 🚀 Resumen del Proyecto
+## 🚀 Resumen 
 
 El trabajo se divide en dos enfoques principales:
 1.  **Clasificación:** Determinar si un vino es "bueno" o "malo".
